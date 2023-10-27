@@ -1,1 +1,1 @@
-# web3profiles
+# web3 profiles
